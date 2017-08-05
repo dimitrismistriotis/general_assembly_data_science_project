@@ -1,0 +1,2 @@
+#!/bin/sh
+curl https://en.wikipedia.org/wiki/Democracy_Index -o democracy_index_2016.html
