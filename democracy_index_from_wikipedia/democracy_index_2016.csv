@@ -1,2 +1,168 @@
 position,flag_uri,score,electoral_process_and_pluralism,functioning_of_government,political_participation,political_culture,civil_liberties,category
 1,//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png,9.93,10.00,9.64,10.00,10.00,10.00,Full democracy
+2,//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png,9.50,10.00,8.93,8.89,10.00,9.71,Full democracy
+3,//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png,9.39,9.58,9.64,8.33,10.00,9.41,Full democracy
+4,//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png,9.26,10.00,9.29,8.89,8.13,10.00,Full democracy
+5,//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png,9.20,9.58,9.29,8.33,9.38,9.41,Full democracy
+6,//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png,9.15,9.58,9.64,7.78,8.75,10.00,Full democracy
+7,//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png,9.15,9.58,7.86,8.33,10.00,10.00,Full democracy
+8,//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png,9.09,9.58,9.29,7.78,9.38,9.41,Full democracy
+9,//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png,9.03,10.00,8.93,7.78,8.75,9.71,Full democracy
+10,//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png,9.01,9.58,8.93,7.78,8.75,10.00,Full democracy
+11,//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png,8.81,10.00,8.93,6.67,8.75,9.71,Full democracy
+12,//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png,8.80,9.58,8.57,8.33,8.13,9.41,Full democracy
+13,//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png,8.63,9.58,8.57,7.78,7.50,9.71,Full democracy
+14,//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png,8.41,9.58,7.86,8.33,6.88,9.41,Full democracy
+15,//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png,8.39,9.17,8.21,6.11,8.75,9.71,Full democracy
+16,//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png,8.36,9.58,7.14,7.22,8.75,9.12,Full democracy
+17,//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png,8.30,9.58,7.14,7.22,8.13,9.41,Full democracy
+18,//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png,8.28,9.17,8.21,5.56,8.75,9.71,Full democracy
+19,//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png,8.17,10.00,8.93,4.44,7.50,10.00,Full democracy
+20,//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png,7.99,8.75,8.21,6.67,7.50,8.82,Flawed democracy
+21,//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png,7.98,9.17,7.14,7.22,8.13,8.25,Flawed democracy
+21,//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png,7.98,9.58,6.43,7.22,8.13,8.53,Flawed democracy
+23,//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png,7.94,9.17,7.86,6.67,6.88,9.12,Flawed democracy
+24,//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png,7.92,9.58,7.14,7.78,6.25,8.82,Flawed democracy
+25,//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png,7.92,9.17,7.50,7.72,7.50,8.24,Flawed democracy
+26,//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png,7.88,9.58,7.14,6.11,6.88,9.71,Flawed democracy
+27,//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png,7.87,9.17,7.14,6.11,7.50,9.41,Flawed democracy
+28,//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png,7.86,9.58,6.79,6.67,6.88,9.41,Flawed democracy
+29,//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png,7.85,9.17,7.50,8.89,7.50,6.18,Flawed democracy
+29,//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png,7.85,9.58,7.86,6.11,6.88,8.82,Flawed democracy
+31,//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png,7.82,9.58,7.14,6.67,6.88,8.82,Flawed democracy
+32,//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png,7.81,9.58,7.50,7.22,5.63,9.12,Flawed democracy
+33,//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png,7.79,9.58,8.21,6.11,5.63,9.41,Flawed democracy
+34,//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png,7.78,9.58,8.57,4.44,6.88,9.41,Flawed democracy
+35,//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png,7.77,9.58,8.57,5.00,6.88,8.82,Flawed democracy
+36,//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png,7.65,9.17,6.43,6.67,6.88,9.12,Flawed democracy
+37,//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png,7.51,9.58,7.14,6.67,5.63,8.53,Flawed democracy
+38,//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png,7.47,9.58,5.71,6.11,6.25,9.71,Flawed democracy
+39,//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png,7.41,7.92,7.86,8.33,5.00,7.94,Flawed democracy
+40,//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png,7.39,9.17,6.79,5.00,6.88,9.12,Flawed democracy
+41,//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png,7.31,9.58,5.71,5.56,6.88,8.82,Flawed democracy
+42,//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png,7.29,9.58,7.14,5.56,5.63,8.53,Flawed democracy
+43,//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png,7.24,8.67,7.14,5.56,6.88,7.94,Flawed democracy
+44,//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png,7.23,9.58,5.36,6.11,6.25,8.82,Flawed democracy
+45,//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png,7.13,9.58,6.43,6.11,5.00,8.82,Flawed democracy
+46,//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png,7.10,9.58,7.14,5.56,5.00,8.24,Flawed democracy
+47,//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png,7.01,9.17,6.07,7.22,4.38,8.24,Flawed democracy
+48,//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png,6.97,7.75,7.14,6.67,6.25,7.06,Flawed democracy
+49,//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png,6.96,9.17,5.00,6.11,6.88,7.65,Flawed democracy
+50,//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png,6.94,9.17,5.71,7.22,4.38,8.24,Flawed democracy
+51,//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png,6.90,9.58,6.79,5.56,3.75,8.82,Flawed democracy
+52,//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png,6.83,9.17,5.71,6.67,4.38,8.24,Flawed democracy
+53,//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png,6.77,9.17,6.43,5.00,5.00,8.24,Flawed democracy
+54,//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png,6.75,9.17,6.07,5.56,5.00,7.94,Flawed democracy
+54,//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png,6.75,8.33,5.71,6.11,6.25,7.35,Flawed democracy
+56,//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png,6.72,9.17,6.07,4.44,6.88,7.06,Flawed democracy
+57,//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png,6.67,8.75,5.71,5.00,6.25,7.65,Flawed democracy
+57,//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png,6.67,9.17,7.14,4.44,4.38,8.24,Flawed democracy
+59,//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png,6.65,9.17,5.36,6.11,4.38,8.24,Flawed democracy
+60,//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png,6.64,9.17,6.07,4.44,5.00,8.53,Flawed democracy
+61,//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png,6.62,9.17,5.71,5.00,5.00,8.24,Flawed democracy
+61,//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png,6.62,9.17,5.71,5.00,5.00,8.24,Flawed democracy
+63,//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png,6.59,8.25,5.36,6.67,5.63,7.06,Flawed democracy
+64,//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png,6.57,8.75,5.36,6.67,5.00,7.06,Flawed democracy
+65,//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png,6.54,6.92,7.86,6.11,6.25,5.59,Flawed democracy
+66,//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png,6.48,7.83,6.79,5.00,6.88,5.88,Flawed democracy
+67,//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png,6.47,7.92,6.07,7.22,4.38,6.76,Flawed democracy
+68,//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png,6.42,3.92,5.71,5.56,7.50,9.41,Flawed democracy
+69,//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png,6.40,6.00,6.07,7.78,6.25,5.58,Flawed democracy
+70,//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png,6.38,4.33,7.86,6.11,6.25,7.35,Flawed democracy
+71,//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png,6.31,5.67,5.36,6.67,5.63,8.24,Flawed democracy
+72,//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png,6.27,8.33,5.71,5.00,4.38,7.94,Flawed democracy
+73,//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png,6.25,8.33,5.36,6.11,4.38,7.06,Flawed democracy
+74,//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png,6.21,7.92,5.36,4.44,6.25,7.06,Flawed democracy
+75,//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png,6.03,6.92,6.07,3.89,5.63,7.65,Flawed democracy
+76,//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png,6.01,7.92,4.29,6.11,4.38,7.35,Flawed democracy
+77,//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png,5.99,7.08,5.36,3.89,6.88,6.76,Hybrid regime
+78,//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png,5.93,8.67,4.29,6.11,5.00,5.59,Hybrid regime
+79,//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png,5.92,9.17,5.71,3.89,4.38,6.47,Hybrid regime
+79,//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png,5.92,7.92,6.07,3.89,4.38,7.35,Hybrid regime
+81,//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png,5.91,7.00,4.36,5.56,5.00,7.65,Hybrid regime
+82,//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png,5.81,8.25,4.64,5.00,4.38,6.76,Hybrid regime
+83,//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png,5.76,7.00,5.00,5.56,6.25,5.00,Hybrid regime
+84,//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png,5.73,7.42,5.07,5.00,4.38,6.76,Hybrid regime
+85,//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png,5.72,7.08,5.36,5.00,4.38,6.76,Hybrid regime
+86,//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png,5.70,5.83,3.93,6.67,5.00,7.06,Hybrid regime
+86,//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png,5.70,7.42,3.93,4.44,6.25,6.47,Hybrid regime
+88,//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png,5.67,6.50,5.36,5.00,5.63,5.88,Hybrid regime
+89,//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png,5.64,4.58,5.71,6.67,5.63,5.59,Hybrid regime
+90,//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png,5.63,7.00,5.36,5.00,3.75,7.06,Hybrid regime
+91,//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png,5.55,6.58,4.29,4.44,6.25,6.18,Hybrid regime
+92,//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png,5.33,4.33,5.00,6.67,5.63,5.00,Hybrid regime
+93,//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png,5.31,7.83,2.57,5.56,5.00,5.59,Hybrid regime
+94,//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png,5.26,5.25,3.57,4.44,6.88,6.18,Hybrid regime
+95,//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/23px-Flag_of_Macedonia.svg.png,5.23,6.92,3.21,6.11,3.75,6.18,Hybrid regime
+96,//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png,5.07,5.92,3.57,5.56,5.63,4.71,Hybrid regime
+97,//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png,5.04,5.83,6.07,5.00,5.63,2.65,Hybrid regime
+98,//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png,4.93,7.42,2.93,5.56,3.75,5.00,Hybrid regime
+98,//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png,4.93,8.33,5.36,2.78,4.38,3.82,Hybrid regime
+100,//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png,4.92,4.50,3.93,5.00,5.00,6.18,Hybrid regime
+101,//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png,4.87,6.50,2.93,5.00,3.75,6.18,Hybrid regime
+102,//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png,4.86,4.42,2.14,7.78,4.38,5.59,Hybrid regime
+102,//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png,4.86,4.33,4.29,4.44,5.63,5.59,Hybrid regime
+104,//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png,4.81,4.50,3.29,3.89,5.63,6.76,Hybrid regime
+105,//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png,4.77,4.75,4.64,4.44,5.63,4.41,Hybrid regime
+106,//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png,4.70,4.42,4.29,4.44,5.63,4.71,Hybrid regime
+107,//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png,4.68,5.67,2.50,5.56,4.38,5.29,Hybrid regime
+108,//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png,4.55,6.58,1.86,2.78,6.25,5.29,Hybrid regime
+109,//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png,4.50,6.08,4.29,3.33,4.38,4.41,Hybrid regime
+110,//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png,4.49,4.33,2.14,7.78,4.38,3.82,Hybrid regime
+111,//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png,4.33,6.00,5.36,2.78,2.50,5.00,Hybrid regime
+112,//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png,4.27,3.17,5.71,3.33,5.00,4.12,Hybrid regime
+113,//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png,4.20,3.17,3.57,4.44,6.88,2.94,Hybrid regime
+114,//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png,4.08,4.33,0.07,7.22,4.38,4.41,Hybrid regime
+115,//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png,4.02,4.42,2.14,5.00,5.00,3.53,Hybrid regime
+115,//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png,4.02,5.17,2.21,2.22,3.75,6.76,Hybrid regime
+117,//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png,3.96,3.00,4.29,5.00,3.13,4.41,Authoritarian
+117,//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png,3.96,4.00,4.29,3.89,4.38,3.24,Authoritarian
+117,//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png,3.96,4.75,2.21,2.22,3.75,6.76,Authoritarian
+120,//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png,3.88,4.33,2.86,4.44,1.88,5.88,Authoritarian
+121,//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png,3.85,3.17,4.29,3.89,4.38,3.53,Authoritarian
+122,//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png,3.81,3.42,2.86,3.33,5.63,3.82,Authoritarian
+123,//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png,3.74,2.58,2.21,4.44,5.63,3.82,Authoritarian
+124,//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png,3.71,4.33,2.21,4.44,3.75,3.82,Authoritarian
+125,//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png,3.60,0.00,3.57,5.56,5.63,3.24,Authoritarian
+126,//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png,3.56,2.58,2.21,3.89,5.00,4.12,Authoritarian
+127,//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png,3.54,1.33,3.57,3.89,6.25,2.65,Authoritarian
+128,//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png,3.46,2.00,3.21,3.89,4.38,3.82,Authoritarian
+128,//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png,3.46,1.75,4.64,3.89,4.38,2.65,Authoritarian
+130,//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png,3.40,0.92,3.21,5.56,4.38,2.94,Authoritarian
+131,//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png,3.38,0.00,3.21,3.89,6.88,2.94,Authoritarian
+132,//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png,3.32,3.58,1.14,2.78,5.00,4.12,Authoritarian
+133,//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png,3.31,2.58,3.93,3.33,3.75,2.94,Authoritarian
+134,//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png,3.24,2.67,2.50,5.00,2.50,3.53,Authoritarian
+135,//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png,3.18,0.00,3.93,2.22,5.63,4.12,Authoritarian
+136,//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png,3.14,0.00,4.64,3.33,6.25,1.47,Authoritarian
+136,//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png,3.14,3.50,0.43,4.44,4.38,2.94,Authoritarian
+138,//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png,3.07,0.83,5.00,2.22,4.38,2.94,Authoritarian
+139,//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png,3.06,0.50,2.14,4.44,4.38,3.82,Authoritarian
+140,//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png,3.05,0.50,2.00,3.89,5.63,3.24,Authoritarian
+141,//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png,3.04,0.00,3.93,2.78,4.38,4.12,Authoritarian
+142,//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/23px-Flag_of_Swaziland.svg.png,3.03,0.92,2.86,2.22,5.63,3.53,Authoritarian
+143,//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png,2.91,1.67,2.86,3.33,3.75,2.94,Authoritarian
+143,//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png,2.91,1.75,3.21,2.22,5.00,2.35,Authoritarian
+145,//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png,2.83,0.42,2.14,3.33,5.63,2.65,Authoritarian
+146,//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png,2.79,1.25,3.21,2.78,4.38,2.35,Authoritarian
+147,//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png,2.75,0.00,3.57,2.22,5.00,2.94,Authoritarian
+148,//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png,2.65,0.50,2.14,3.33,3.75,3.53,Authoritarian
+149,//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png,2.55,2.50,1.14,2.78,2.50,3.82,Authoritarian
+150,//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png,2.40,0.33,0.79,3.89,5.00,2.65,Authoritarian
+151,//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png,2.37,0.00,1.79,3.89,5.00,1.18,Authoritarian
+151,//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png,2.37,0.00,2.14,1.67,6.88,1.18,Authoritarian
+151,//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png,2.37,0.83,2.86,1.67,5.00,1.47,Authoritarian
+154,//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png,2.34,0.00,3.21,3.89,3.13,1.47,Authoritarian
+155,//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png,2.25,1.00,0.00,1.67,5.63,2.94,Authoritarian
+156,//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png,2.07,0.00,0.00,4.44,5.00,0.88,Authoritarian
+157,//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png,1.98,1.67,0.00,2.78,3.13,2.35,Authoritarian
+158,//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png,1.95,0.08,1.86,2.22,5.00,0.59,Authoritarian
+159,//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png,1.93,0.92,0.71,2.78,4.38,0.88,Authoritarian
+159,//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png,1.93,0.00,2.86,2.22,3.13,1.47,Authoritarian
+161,//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png,1.89,0.58,0.07,1.67,6.25,0.88,Authoritarian
+162,//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png,1.83,0.00,0.79,2.78,5.00,0.59,Authoritarian
+163,//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png,1.70,0.00,0.43,2.22,4.38,1.47,Authoritarian
+164,//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png,1.61,1.75,0.36,1.11,2.50,2.35,Authoritarian
+165,//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png,1.50,0.00,0.00,1.11,3.75,2.65,Authoritarian
+166,//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png,1.43,0.00,0.00,2.78,4.38,0.00,Authoritarian
+167,//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png,1.08,0.00,2.50,1.67,1.25,0.00,Authoritarian
