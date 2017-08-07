@@ -17,7 +17,7 @@ table = soup.find("table", {"class": "wikitable sortable"})
 output_csv = open('democracy_index_2016.csv', 'wb')
 csv_writer = csv.writer(output_csv)
 
-csv_writer.writerow(["position", "flag_uri", "score",
+csv_writer.writerow(["position", "country_name", "flag_uri", "score",
                      "electoral_process_and_pluralism","functioning_of_government",
                      "political_participation", "political_culture",
                      "civil_liberties", "category"])
@@ -28,6 +28,8 @@ for row in table.findAll("tr"):
 #     print(cells)
     if len(cells) > 0:
         country_position = cells[0].string
+	country_name = cells[1].find('a').string
+#         print(country_name)
         country_flag_uri = cells[1].find('span').find('img')['src']
 #         print(country_flag_uri)
         country_score = cells[2].string
@@ -47,6 +49,7 @@ for row in table.findAll("tr"):
 
         csv_writer.writerow([
             country_position,
+            country_name,
             country_flag_uri,
             country_score,
             electoral_process_and_pluralism_score,
